@@ -2,3 +2,4 @@ get clone url : used to clone or copy to local computer
 get add : used to add
 lets check
 understand.
+working on stash command.

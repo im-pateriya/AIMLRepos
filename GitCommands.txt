@@ -4,4 +4,4 @@ lets check
 understand.
 working on stash command.
 commit from Visual studio.
-Now, commit from ecilipse.
+Now, commit from ecilipse

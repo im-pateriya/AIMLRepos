@@ -3,3 +3,4 @@ use this as changed file and updated.
 again add and updated.
 modified for check.
 git commit -a
+git checkout -- Test1.txt
